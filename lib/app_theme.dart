@@ -7,7 +7,7 @@ class AppTheme{
       backgroundColor: Colors.white,
       foregroundColor: Colors.black,
     ),
-    textTheme: TextTheme(
+    textTheme: const TextTheme(
         bodyLarge: TextStyle(
           color: Colors.black,
         ),
@@ -35,7 +35,7 @@ class AppTheme{
       backgroundColor: Colors.black,
       foregroundColor: Colors.white,
     ),
-    textTheme: TextTheme(
+    textTheme: const TextTheme(
       bodyLarge: TextStyle(
         color: Colors.white,
       ),
